@@ -1,0 +1,13 @@
+body{
+text-align:center;
+background-color:floralwhite;
+}
+img{
+transition:transform .2s;
+border-style:ridge;
+margin:5px;
+border-color:black;
+}
+img:hover{
+transform: scale(0.9);
+}
